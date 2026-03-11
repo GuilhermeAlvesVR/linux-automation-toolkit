@@ -1,0 +1,13 @@
+# backups gerados
+backup_*.tar.gz
+
+# diretórios de teste
+teste-organizador/
+
+# arquivos temporários
+*.tmp
+*.log
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
