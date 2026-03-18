@@ -1,6 +1,6 @@
 # Linux Automation Toolkit
 
-Ferramenta de linha de comando desenvolvida em **Bash** para automatizar tarefas comuns em sistemas Linux.
+Ferramenta de linha de comando desenvolvida em Bash para automatizar tarefas comuns em sistemas Linux.
 
 Este projeto foi criado com o objetivo de praticar:
 
@@ -13,7 +13,7 @@ Este projeto foi criado com o objetivo de praticar:
 
 ## Funcionalidades
 
-O toolkit oferece um menu interativo com as seguintes opções:
+O toolkit oferece as seguintes funcionalidades:
 
 1. **System Info**  
    Exibe informações do sistema como usuário atual, uso de memória e armazenamento.
@@ -31,7 +31,7 @@ O toolkit oferece um menu interativo com as seguintes opções:
 
 ## Estrutura do Projeto
 
-```
+```bash
 linux-automation-toolkit
 │
 ├── toolkit.sh
@@ -51,7 +51,7 @@ linux-automation-toolkit
 
 - Linux ou WSL
 - Bash
-- Git (opcional para clonar o projeto)
+- Git (opcional)
 
 ---
 
@@ -85,9 +85,7 @@ Execute o programa:
 
 ## Menu do Programa
 
-Ao executar, será exibido o seguinte menu:
-
-```
+```text
 ===== Linux Automation Toolkit =====
 
 1 - System Info
